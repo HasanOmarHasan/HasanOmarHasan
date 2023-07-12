@@ -61,6 +61,9 @@ I am currently seeking a junior Front-End developer position where I can continu
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)&nbsp;
+<!--
+![Open Source](https://img.shields.io/badge/-Open-Source-%23282C34?style=flat-square&logo=Open-Source)&nbsp; 
+-->
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
