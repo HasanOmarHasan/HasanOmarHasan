@@ -22,52 +22,71 @@ I am currently seeking a junior Front-End developer position where I can continu
 <br>
 
 - 🏢 I'm a junior Front-End developer
-- 👨‍💻 As asenior computer science student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a senior computer science student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
-### Languages and Tools 🛠 : 
+### 🛠 Languages and Tools  : 
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PHP](https://img.shields.io/badge/-php-181717?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=flat-square&logo=mysql)
-![JAVA](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)
-![](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-python-181717?style=flat-square&logo=python)
-![Shell commend](https://img.shields.io/badge/-shell-181717?style=flat-square&logo=shell)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
+![PHP](https://img.shields.io/badge/-php-181717?style=flat-square&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=flat-square&logo=mysql)&nbsp;
+![java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)&nbsp;
+![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-cpp-181717?style=flat-square&logo=cpp)&nbsp;
+![Python](https://img.shields.io/badge/-python-181717?style=flat-square&logo=python)&nbsp;
+![Shell commend](https://img.shields.io/badge/-shell-181717?style=flat-square&logo=shell)&nbsp;
 
 
 
-- ### I’m currently learning :
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- ### 🌱 I’m currently learning :
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 
-- ### plan to learn :
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)
+- ### 🪴 plan to learn :
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)&nbsp;
+![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)&nbsp;
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+### 📊 State
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HasanOmarHasan&label=Profile%20views&color=0e75b6&style=flat" alt="HasanOmarHasan" /> </p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HasanOmarHasan" alt="HasanOmarHasan" /></a> </p>
+<br>
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=HasanOmarHasan&" alt="HasanOmarHasan" /></p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasanOmarHasan&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px >
 
  ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hasanomarwork@gmail.com)](mailto:hasanomarwork@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hasanomarwork@gmail.com)](mailto:hasanomarwork@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/hasanomarhasan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hasan_omarHasan)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01153445721)
-[![Telegram](https://img.shields.io/badge/-telegram-075e54?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@HasanOmarHassan)
-[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hasanomar)
+)](https://www.linkedin.com/in/hasanomarhasan/)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hasan_omarHasan)&nbsp;
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01153445721)&nbsp;
+[![Telegram](https://img.shields.io/badge/-telegram-075e54?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@HasanOmarHassan)&nbsp;
+[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hasanomar)&nbsp;
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
