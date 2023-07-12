@@ -40,14 +40,17 @@ I am currently seeking a junior Front-End developer position where I can continu
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=flat-square&logo=mysql)&nbsp;
 ![java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-cpp-181717?style=flat-square&logo=cpp)&nbsp;
+![C++](https://img.shields.io/badge/-c++-181717?style=flat-square&logo=c++)&nbsp;
 ![Python](https://img.shields.io/badge/-python-181717?style=flat-square&logo=python)&nbsp;
-![Shell commend](https://img.shields.io/badge/-shell-181717?style=flat-square&logo=shell)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 
 - ### 🌱 I’m currently learning :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
+![npm](https://img.shields.io/badge/-npm-181717?style=flat-square&logo=npm)&nbsp;
+![Shell commend](https://img.shields.io/badge/-shell-181717?style=flat-square&logo=shell)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-181717?style=flat-square&logo=Vim)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 
@@ -56,6 +59,7 @@ I am currently seeking a junior Front-End developer position where I can continu
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)&nbsp;
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)&nbsp;
 
 
