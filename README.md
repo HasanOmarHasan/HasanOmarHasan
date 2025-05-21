@@ -16,7 +16,7 @@
 
 Over the years, I have honed my coding skills by studying and building a problem solver, constantly pushing myself to improve and challenge my abilities.
 
-Recently, I discovered my passion for web development, especially back-end development. In this portfolio, you will find some of my latest projects showcasing my skills.
+I discovered my passion for web development, especially back-end development. In this portfolio, you will find some of my latest projects showcasing my skills.
 
 I’m a self-driven Full-Stack Developer with over two years of hands-on experience turning ideas into scalable, production-ready web applications. My journey started with independent learning and open-source contributions, and I’ve since mastered React, Next.js, Django REST Framework, Express, Node.js, and PostgreSQL. I thrive on tackling complex problems—implementing secure authentication flows, real-time features, and machine-learning integrations—while adhering to clean code principles and modern development workflows.
 </h4>
