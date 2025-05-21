@@ -2,68 +2,39 @@
   Hello! 👋 My Name is Hassan Omar, Welcome To My Github Profile ♥
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-<!--   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
-   -->
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
 </p> 
+   -->
+
 
 <h3>🚀 About Me</h3> 
 <h4> 
   I am a passionate web developer with a love for creating digital experiences. My development journey started at a young age when I stumbled upon a tutorial on Visual Basic, basic C++ which led me down a path of endless possibilities.
 
-Over the years, I have honed my coding skills by studying IT and building a problem solver, constantly pushing myself to improve and challenge my abilities.
+Over the years, I have honed my coding skills by studying and building a problem solver, constantly pushing myself to improve and challenge my abilities.
 
-Recently, I discovered my passion for web development and the art of crafting beautiful and functional websites. In this portfolio, you will find some of my latest projects showcasing my skills in HTML, CSS, JavaScript, and more.
+Recently, I discovered my passion for web development, especially back-end development. In this portfolio, you will find some of my latest projects showcasing my skills.
 
-I am currently seeking a junior Front-End developer position where I can continue to grow my skills and learn from experienced professionals. Feel free to explore my portfolio and reach out to me with any questions or opportunities.
+I’m a self-driven Full-Stack Developer with over two years of hands-on experience turning ideas into scalable, production-ready web applications. My journey started with independent learning and open-source contributions, and I’ve since mastered React, Next.js, Django REST Framework, Express, Node.js, and PostgreSQL. I thrive on tackling complex problems—implementing secure authentication flows, real-time features, and machine-learning integrations—while adhering to clean code principles and modern development workflows.
 </h4>
 <br>
 
-- 🏢 I'm a junior Front-End developer
-- 👨‍💻 As a senior computer science student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
-### 🛠 Languages and Tools  : 
+## 🛠️ Languages & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
-![PHP](https://img.shields.io/badge/-php-181717?style=flat-square&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=flat-square&logo=mysql)&nbsp;
-![java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)&nbsp;
-![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-c++-181717?style=flat-square&logo=c++)&nbsp;
-![Python](https://img.shields.io/badge/-python-181717?style=flat-square&logo=python)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-- ### 🌱 I’m currently learning :
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
-![npm](https://img.shields.io/badge/-npm-181717?style=flat-square&logo=npm)&nbsp;
-![Shell commend](https://img.shields.io/badge/-shell-181717?style=flat-square&logo=shell)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-181717?style=flat-square&logo=Vim)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-
-
-- ### 🪴 plan to learn :
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)&nbsp;
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)&nbsp;
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)&nbsp;
-<!--
-![Open Source](https://img.shields.io/badge/-Open-Source-%23282C34?style=flat-square&logo=Open-Source)&nbsp; 
--->
+* **Languages:** JavaScript (ES6+), TypeScript,  Node.js, Python, HTML5, CSS3
+* **Front-End:** React, Next.js, Tailwind CSS, Bootstrap
+* **Back-End:** Django REST Framework, Node.js, Express
+* **Databases:** PostgreSQL, MongoDB , mysql
+* **DevOps & Tools:** Git, GitHub Actions, Docker, Heroku, Vercel
+* **API & Protocols:** REST, Socket.IO
+* **Testing & Quality:** Jest, PyTest, ESLint, Prettier
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
